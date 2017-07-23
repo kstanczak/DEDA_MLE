@@ -4,11 +4,13 @@ Name of Quantlet: DEDA_MLE
 Published in: 	  Digital Economy and Decision Analytics
 
 
-Description:      'SFE_BoxJen code uses preprocessed data on Berlin housing
+Description:      'DEDA_MLE code uses preprocessed data on Berlin housing
                   market. LASSO regression is conducted on ten folds of data   
                   and the in each fold selected variables are presented in   
-                  the plot.'
-
+                  the plot. The code is based on the code presented in
+                  Mullainathan, Sendhil, and Jann Spiess. 2017. Machine
+                  Learning: An Applied Econometric Approach. Journal
+                  of Economic Perspectives, 31(2): 87-106.'
 
 Keywords:         MLE, Machine Learning, Econometrics, LASSO
 
