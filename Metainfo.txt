@@ -1,0 +1,29 @@
+
+Name of Quantlet: DEDA_MLE
+
+Published in: 	  Digital Economy and Decision Analytics
+
+
+Description:      'SFE_BoxJen code uses preprocessed data on Berlin housing
+                  market. LASSO regression is conducted on ten folds of data   
+                  and the in each fold selected variables are presented in   
+                  the plot.'
+
+
+Keywords:         MLE, Machine Learning, Econometrics, LASSO
+
+See also:         -
+ 
+
+Author:           Karolina Stanczak
+
+Submitted:        2017/07/24
+
+
+Datafile:         dataprepall.rdata
+
+Input:            -
+
+Output:           'Plot presenting the loss function of LASSO regression. Plot
+                  showing selected variables in each ten folds that the data 
+                  is divided into.'
